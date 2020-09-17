@@ -1,7 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import { IpTrackerServiceService } from './ip-tracker-service.service';
 import * as Leaflet from 'leaflet';
-import { antPath } from 'leaflet-ant-path';
 
 @Component({
   selector: 'app-root',
